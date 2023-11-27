@@ -1,3 +1,6 @@
+**#Title **
+Evaluating performance of hybrid neural networks in spatiotemporal context: A study on Influenza outbreak prediction of eight countries
+
 **#Abstract **
 
 In the rigorous and varied field of infectious disease outbreak modeling, there remains a notable gap in addressing the spatiotemporal challenges present in established models. 
